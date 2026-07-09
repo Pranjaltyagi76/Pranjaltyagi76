@@ -1,13 +1,6 @@
 <!--
   ════════════════════════════════════════════════════════════════════
   PRANJAL TYAGI · GitHub Profile README
-  ─────────────────────────────────────────────────────────────────────
-  BEFORE PUBLISHING, replace every «PLACEHOLDER» below:
-    • «GITHUB_USER»   → your GitHub username (used in stats + repo links)
-    • «LINKEDIN_URL»  → full LinkedIn profile URL
-    • «PORTFOLIO_URL» → your portfolio site
-    • «EMAIL»         → contact email
-    • Repo links under "Featured Work" → point to real repositories
   Theme: Terminal / Systems  ·  Accent: cyan→violet  ·  BG: slate-navy (#0A0E1A)
   ════════════════════════════════════════════════════════════════════
 -->
@@ -19,19 +12,19 @@
 
 <br/>
 
-<!-- ░░░ TYPING EFFECT ░░░ (Readme Typing SVG — reliable, widely used) -->
+<!-- ░░░ TYPING EFFECT ░░░ -->
 <div align="center">
-  <a href="«PORTFOLIO_URL»">
+  <a href="https://pranjal-ai-portfolio.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+ML+Engineer+%7C+LLM+Engineer;Agentic+AI+%26+Multi-Agent+Systems;Advanced+Retrieval-Augmented+Generation;Production-oriented%2C+not+toy+demos." alt="Roles" />
   </a>
 </div>
 
 <!-- ░░░ SOCIAL LINKS ░░░ -->
 <div align="center">
-  <a href="https://github.com/«GITHUB_USER»"><img src="https://img.shields.io/badge/GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
-  <a href="«LINKEDIN_URL»"><img src="https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
-  <a href="«PORTFOLIO_URL»"><img src="https://img.shields.io/badge/Portfolio-0A0E1A?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/></a>
-  <a href="mailto:«EMAIL»"><img src="https://img.shields.io/badge/Email-0A0E1A?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
+  <a href="https://github.com/Pranjaltyagi76"><img src="https://img.shields.io/badge/GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/pranjal-tyagi200508/"><img src="https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
+  <a href="https://pranjal-ai-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0E1A?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/></a>
+  <a href="mailto:pranjaltyagi200275@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E1A?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
 </div>
 
 <br/>
@@ -46,14 +39,13 @@ My work sits at the intersection of **LLMs, agentic orchestration, advanced RAG,
 
 <br/>
 
-<!-- ░░░ CURRENT FOCUS ░░░ -->
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>&nbsp;⌁&nbsp; Current Focus</h3>
       <ul>
         <li>Multi-agent systems that plan, delegate, and self-correct</li>
-        <li>Reflection &amp; self-improving RAG pipelines</li>
+        <li>Reflection & self-improving RAG pipelines</li>
         <li>Tool-using autonomous agents with human-in-the-loop gates</li>
         <li>Evaluation harnesses for LLM output quality</li>
       </ul>
@@ -74,97 +66,103 @@ My work sits at the intersection of **LLMs, agentic orchestration, advanced RAG,
 
 ## ` 02 ` Featured Work
 
-<!-- Replace each repo link with your real repository URL -->
-
 ### ⬡ Reflection-Augmented RAG
-> A retrieval pipeline that **critiques and improves its own answers**. A reflection layer scores retrieved context and generated responses, then re-queries or refines until the answer clears a quality bar.
+
+> A retrieval pipeline that critiques and improves its own answers.
 
 `Advanced RAG` · `Reflection loop` · `Retrieval evaluation` · `Self-improving responses`
 
-[**→ View repository**](https://github.com/«GITHUB_USER»/reflection-augmented-rag)
+**Repository:**  
+https://github.com/Pranjaltyagi76/Reflected-Augmented-RAG
 
 <br/>
 
 ### ⬡ Autonomous Data Science Advisor
-> A **multi-agent system that runs an ML workflow end to end** — cleaning data, engineering features, selecting models, and explaining its decisions — so a user gets a defensible model, not a black box.
+
+> A multi-agent system that automates the end-to-end ML workflow.
 
 `Multi-agent` · `AutoML workflow` · `Data cleaning` · `Feature engineering` · `Model selection` · `Explainability`
 
-[**→ View repository**](https://github.com/«GITHUB_USER»/autonomous-data-science-advisor)
+**Repository:**  
+https://github.com/Pranjaltyagi76/Autonomous_Data_Scientist
 
 <br/>
 
 ### ⬡ AI Travel Company
-> A **LangGraph multi-agent workflow** that plans complete trips: dedicated agents handle flights, hotels, budget, weather, and visa checks, coordinated by a planner with **human approval** before anything is finalized.
 
-`LangGraph` · `Multi-agent workflow` · `Flights / Hotels / Budget / Weather / Visa` · `Planner` · `Human approval`
+> LangGraph-powered multi-agent travel planner with human approval.
 
-[**→ View repository**](https://github.com/«GITHUB_USER»/ai-travel-company)
+`LangGraph` · `Flights` · `Hotels` · `Budget` · `Weather` · `Visa`
+
+**Repository:**  
+https://github.com/Pranjaltyagi76/AI_TRAVEL_COMPANY
 
 <br/>
 
 ### ⬡ ClaimGuard AI
-> A **multimodal, multi-agent system for insurance claims** — vision models inspect submitted evidence while reasoning agents assess risk and flag inconsistencies for review.
 
-`Multimodal AI` · `Vision AI` · `Insurance claims` · `Risk analysis` · `Multi-agent architecture`
+> Multimodal AI for automated insurance claim assessment.
 
-[**→ View repository**](https://github.com/«GITHUB_USER»/claimguard-ai)
+`Multimodal AI` · `Vision AI` · `Risk Analysis`
+
+**Repository:**  
+https://github.com/Pranjaltyagi76/ClaimGuard-AI
 
 <br/>
 
 ### ⬡ Portfolio Website
-> A fast, responsive personal site built with **Next.js and Tailwind CSS** — modern UI, clean typography, deployed for real traffic.
 
-`Next.js` · `Tailwind CSS` · `Responsive` · `Modern UI`
+> Modern responsive portfolio built with Next.js & Tailwind CSS.
 
-[**→ Live site**](«PORTFOLIO_URL») · [**→ View repository**](https://github.com/«GITHUB_USER»/portfolio)
+`Next.js` · `Tailwind CSS` · `Responsive`
+
+**Live:**  
+https://pranjal-ai-portfolio.vercel.app/
+
+**Repository:**  
+https://github.com/Pranjaltyagi76/pranjal-ai-portfolio
 
 ---
 
 ## ` 03 ` AI Expertise
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="25%">🧠<br/><b>LLM Engineering</b><br/><sub>Prompting · context design · structured output</sub></td>
-    <td align="center" width="25%">🕸️<br/><b>Agentic &amp; Multi-Agent</b><br/><sub>Orchestration · tool use · delegation</sub></td>
-    <td align="center" width="25%">🔎<br/><b>Advanced RAG</b><br/><sub>Retrieval eval · reflection · re-ranking</sub></td>
-    <td align="center" width="25%">📐<br/><b>AI System Design</b><br/><sub>Evaluation · autonomy · reliability</sub></td>
-  </tr>
-</table>
+
+| 🧠 LLM Engineering | 🕸️ Agentic AI | 🔎 Advanced RAG | 📐 AI System Design |
+|:--:|:--:|:--:|:--:|
+| Prompt Engineering | Multi-Agent Systems | Reflection RAG | Evaluation & Reliability |
+
 </div>
 
 ---
 
 ## ` 04 ` Technical Skills
 
-<!-- Grouped for scannability. Logos via skillicons.dev (reliable, single request). -->
-
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,javascript,typescript&theme=dark" alt="Languages" />
 
-**AI / ML Engineering**
-<br/>
-`LLMs` · `Agentic AI` · `RAG` · `LangChain` · `LangGraph` · `Prompt Engineering` · `Vector Databases` · `Embeddings`
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,javascript,typescript&theme=dark" />
+
+**AI / ML**
+
+`LLMs` · `Agentic AI` · `RAG` · `LangChain` · `LangGraph` · `Prompt Engineering` · `Embeddings`
 
 **Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="ML frameworks" />
-&nbsp; `XGBoost` · `Pandas` · `NumPy` · `Matplotlib`
 
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend" />
-&nbsp; `REST APIs`
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" />
+
+`XGBoost` · `Pandas` · `NumPy` · `Matplotlib`
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
 
 **Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Databases" />
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" />
 
 **DevOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,gcp&theme=dark" alt="DevOps and Cloud" />
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,gcp&theme=dark" />
 
 ---
 ## ` 05 ` GitHub Analytics
