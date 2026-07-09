@@ -167,33 +167,29 @@ My work sits at the intersection of **LLMs, agentic orchestration, advanced RAG,
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,gcp&theme=dark" alt="DevOps and Cloud" />
 
 ---
-
 ## ` 05 ` GitHub Analytics
 
 <div align="center">
 
-<!-- Replace «GITHUB_USER» in each URL below -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=«GITHUB_USER»&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=«GITHUB_USER»&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0A0E1A&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranjaltyagi76&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaltyagi76&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0A0E1A&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=«GITHUB_USER»&hide_border=true&background=0A0E1A&stroke=243349&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=5A6B85&currStreakNum=F1F5F9&sideNums=F1F5F9" alt="Contribution Streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=Pranjaltyagi76&hide_border=true&background=0A0E1A&stroke=243349&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=5A6B85&currStreakNum=F1F5F9&sideNums=F1F5F9" alt="Contribution Streak" />
 
 <br/><br/>
 
-<!-- Activity graph (contribution graph over time) -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=«GITHUB_USER»&bg_color=0A0E1A&color=94A3B8&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="Activity Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjaltyagi76&bg_color=0A0E1A&color=94A3B8&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="Activity Graph" />
 
-<br/>
+<br/><br/>
 
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=«GITHUB_USER»&style=flat&color=38BDF8&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Pranjaltyagi76&style=flat&color=38BDF8&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
-
 ## ` 06 ` Certifications & Experience
 
 <table>
