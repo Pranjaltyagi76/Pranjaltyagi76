@@ -85,19 +85,19 @@ My work sits at the intersection of **LLMs, agentic orchestration, advanced RAG,
 <a href="https://github.com/Pranjaltyagi76/Reflected-Augmented-RAG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=Reflected-Augmented-RAG&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="Reflection-Augmented RAG" />
 </a>
-<a href="https://github.com/Pranjaltyagi76/Autonomous_Data_Scientist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=Autonomous_Data_Scientist&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="Autonomous Data Science Advisor" />
+<a href="https://github.com/Pranjaltyagi76/Data-Science-Intern-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=Data-Science-Intern-Agent&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="Autonomous Data Science Advisor" />
 </a>
 
-<a href="https://github.com/Pranjaltyagi76/AI_TRAVEL_COMPANY">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=AI_TRAVEL_COMPANY&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="AI Travel Company" />
+<a href="https://github.com/Pranjaltyagi76/Agentic-Travel-Company">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=Agentic-Travel-Company&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="AI Travel Company" />
 </a>
 <a href="https://github.com/Pranjaltyagi76/ClaimGuard-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=ClaimGuard-AI&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="ClaimGuard AI" />
 </a>
 
-<a href="https://github.com/Pranjaltyagi76/pranjal-ai-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=pranjal-ai-portfolio&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="Portfolio Website" />
+<a href="https://github.com/Pranjaltyagi76/PortFolioPranjalTyagi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjaltyagi76&repo=PortFolioPranjalTyagi&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0E1A" alt="Portfolio Website" />
 </a>
 
 </div>
@@ -143,7 +143,7 @@ My work sits at the intersection of **LLMs, agentic orchestration, advanced RAG,
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,javascript,typescript&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript&theme=dark" alt="Languages" />
 
 **AI / ML**
 
