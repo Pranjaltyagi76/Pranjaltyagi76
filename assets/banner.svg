@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="t d" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace">
+  <title id="t">Pranjal Tyagi — AI Engineer building production LLM and agentic systems</title>
+  <desc id="d">Animated terminal-style banner with a pulsing multi-agent network.</desc>
+
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="vign" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0" stop-color="#0E1424"/>
+      <stop offset="1" stop-color="#0A0E1A"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#141C2E" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="1200" height="300" fill="url(#vign)"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.5"/>
+  <rect x="6" y="6" width="1188" height="288" rx="16" fill="none" stroke="#243349" stroke-width="1.5"/>
+  <!-- accent top rule -->
+  <rect x="6" y="6" width="1188" height="3" rx="1.5" fill="url(#accent)" opacity="0.85"/>
+
+  <!-- window dots -->
+  <g transform="translate(34,34)">
+    <circle cx="0" cy="0" r="5" fill="#F87171"/>
+    <circle cx="20" cy="0" r="5" fill="#FBBF24"/>
+    <circle cx="40" cy="0" r="5" fill="#34D399"/>
+  </g>
+
+  <!-- ░░ LEFT: identity ░░ -->
+  <g transform="translate(64,0)">
+    <text x="0" y="92" font-size="19" fill="#5A6B85">
+      <tspan fill="#38BDF8">~/pranjal</tspan> <tspan fill="#5A6B85">$</tspan> <tspan fill="#94A3B8">whoami</tspan>
+    </text>
+
+    <text x="0" y="152" font-size="58" font-weight="700" letter-spacing="1" fill="url(#accent)" filter="url(#glow)">PRANJAL TYAGI</text>
+
+    <text x="2" y="192" font-size="21" fill="#94A3B8">AI Engineer · Multi-Agent Systems · Advanced RAG</text>
+
+    <!-- status line + blinking cursor -->
+    <g transform="translate(2,232)" font-size="16">
+      <circle cx="6" cy="-5" r="5" fill="#34D399">
+        <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="20" y="0" fill="#5A6B85">status: <tspan fill="#94A3B8">shipping</tspan> · focus: <tspan fill="#A78BFA">multi-agent + retrieval</tspan> · </text>
+      <rect x="472" y="-13" width="11" height="17" fill="#38BDF8">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- ░░ RIGHT: multi-agent network ░░ -->
+  <g transform="translate(0,6)">
+    <!-- edges (drawn first, behind nodes) -->
+    <g stroke="url(#edge)" stroke-width="1.6" opacity="0.55" fill="none">
+      <line x1="935" y1="150" x2="795" y2="78"/>
+      <line x1="935" y1="150" x2="1075" y2="82"/>
+      <line x1="935" y1="150" x2="1085" y2="225"/>
+      <line x1="935" y1="150" x2="805" y2="228"/>
+      <line x1="935" y1="150" x2="935" y2="46"/>
+      <line x1="795" y1="78" x2="935" y2="46" opacity="0.5"/>
+      <line x1="1075" y1="82" x2="935" y2="46" opacity="0.5"/>
+    </g>
+
+    <!-- flowing data packets along the edges -->
+    <g fill="#38BDF8" filter="url(#glow)">
+      <circle r="3.2"><animateMotion dur="2.4s" repeatCount="indefinite" path="M935,150 L795,78"/></circle>
+      <circle r="3.2" fill="#A78BFA"><animateMotion dur="2.9s" repeatCount="indefinite" path="M935,150 L1075,82"/></circle>
+      <circle r="3.2"><animateMotion dur="3.3s" repeatCount="indefinite" path="M935,150 L1085,225"/></circle>
+      <circle r="3.2" fill="#A78BFA"><animateMotion dur="2.1s" repeatCount="indefinite" path="M935,150 L805,228"/></circle>
+      <circle r="3.2"><animateMotion dur="2.6s" repeatCount="indefinite" path="M935,150 L935,46"/></circle>
+    </g>
+
+    <!-- satellite nodes -->
+    <!-- retrieval -->
+    <g transform="translate(795,78)">
+      <circle r="7" fill="none" stroke="#38BDF8" stroke-width="1.5">
+        <animate attributeName="r" values="7;13;7" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0;0.9" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6" fill="#0A0E1A" stroke="#38BDF8" stroke-width="2"/>
+      <text x="0" y="-16" font-size="12" fill="#94A3B8" text-anchor="middle">retrieval</text>
+    </g>
+    <!-- tools -->
+    <g transform="translate(1075,82)">
+      <circle r="7" fill="none" stroke="#A78BFA" stroke-width="1.5">
+        <animate attributeName="r" values="7;13;7" dur="3.4s" begin="0.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0;0.9" dur="3.4s" begin="0.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6" fill="#0A0E1A" stroke="#A78BFA" stroke-width="2"/>
+      <text x="0" y="-16" font-size="12" fill="#94A3B8" text-anchor="middle">tools</text>
+    </g>
+    <!-- eval -->
+    <g transform="translate(1085,225)">
+      <circle r="7" fill="none" stroke="#38BDF8" stroke-width="1.5">
+        <animate attributeName="r" values="7;13;7" dur="2.7s" begin="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0;0.9" dur="2.7s" begin="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6" fill="#0A0E1A" stroke="#38BDF8" stroke-width="2"/>
+      <text x="0" y="22" font-size="12" fill="#94A3B8" text-anchor="middle">eval</text>
+    </g>
+    <!-- agents -->
+    <g transform="translate(805,228)">
+      <circle r="7" fill="none" stroke="#A78BFA" stroke-width="1.5">
+        <animate attributeName="r" values="7;13;7" dur="3.1s" begin="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0;0.9" dur="3.1s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6" fill="#0A0E1A" stroke="#A78BFA" stroke-width="2"/>
+      <text x="0" y="22" font-size="12" fill="#94A3B8" text-anchor="middle">agents</text>
+    </g>
+    <!-- llm -->
+    <g transform="translate(935,46)">
+      <circle r="7" fill="none" stroke="#38BDF8" stroke-width="1.5">
+        <animate attributeName="r" values="7;13;7" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0;0.9" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="6" fill="#0A0E1A" stroke="#38BDF8" stroke-width="2"/>
+      <text x="0" y="-16" font-size="12" fill="#94A3B8" text-anchor="middle">llm</text>
+    </g>
+
+    <!-- central planner node -->
+    <g transform="translate(935,150)" filter="url(#glow)">
+      <circle r="14" fill="none" stroke="url(#accent)" stroke-width="2">
+        <animate attributeName="r" values="14;22;14" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.85;0;0.85" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="11" fill="#0A0E1A" stroke="url(#accent)" stroke-width="2.5"/>
+      <circle r="4" fill="url(#accent)"/>
+      <text x="0" y="34" font-size="13" font-weight="600" fill="#E2E8F0" text-anchor="middle">planner</text>
+    </g>
+  </g>
+</svg>
