@@ -185,7 +185,7 @@ My work sits at the intersection of **LLMs, agentic orchestration, advanced RAG,
 <!-- ░░░ 3D CONTRIBUTION GRAPH ░░░
      Generated daily by .github/workflows/3d-contrib.yml
      ▶ First time: Actions tab → "3D contribution graph" → Run workflow -->
-<img width="92%" src="profile-3d-contrib/profile-3d.svg" alt="3D Contribution Graph" />
+<img width="92%" src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 
 <br/><br/>
 
