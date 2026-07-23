@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: "0 18 * * *"   # daily at 18:00 UTC
   workflow_dispatch:         # allow manual "Run workflow" from the Actions tab
+  push:
+    branches: [main]
+    paths-ignore:
+      - "profile-3d-contrib/**"   # avoid re-running on the bot's own commit
 
 permissions:
   contents: write
